@@ -316,6 +316,7 @@ img {
 }
 .home_img2{
   border-radius: 20px;
+  cursor: pointer;
 }
 
 .home__title {
@@ -548,9 +549,9 @@ img {
   margin-bottom: var(--mb-2);
 }
 
-.footer__logo,
 .footer__title {
   font-size: var(--h3-font-size);
+  color: #9acd32;
 }
 
 .footer__link {
